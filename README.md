@@ -31,8 +31,8 @@ the content comes from. The site's source code is not published here.
 - [Shareable links](#shareable-links)
 - [Keyboard shortcuts](#keyboard-shortcuts)
 - [Accessibility and privacy](#accessibility-and-privacy)
-- [Content source and credits](#content-source-and-credits)
 - [FAQ](#faq)
+- [License](#license)
 
 ---
 
@@ -266,15 +266,6 @@ Every view has its own address, so you can bookmark or share exactly what you se
   submission and are never published.
 - Served over HTTPS with strict security headers.
 
-## Content source and credits
-
-The list is based on [awesome-forensics](https://github.com/ShivdaSaj/awesome-forensics) (originally by
-[cugu](https://github.com/cugu/awesome-forensics) and contributors), released under
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The site keeps in sync with that list, adds the
-lifecycle mapping, levels, learning path and toolkits, and accepts new suggestions through Contribute a tool.
-
-Project logos and GitHub details shown on the site belong to their respective projects.
-
 ## FAQ
 
 **Is it free?** Yes. There is no sign-up and nothing to install.
@@ -287,6 +278,10 @@ submissions; new entries appear as soon as they are published.
 
 **Where are my saved tools stored?** Only in your browser. Clearing site data or switching browsers starts a new
 list, so use **Copy as Markdown** to keep a copy.
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
