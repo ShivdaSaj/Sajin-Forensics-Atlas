@@ -26,7 +26,6 @@ the content comes from. The site's source code is not published here.
 - [Contribute a tool](#contribute-a-tool)
 - [Themes](#themes)
 - [Phone and tablet](#phone-and-tablet)
-- [Footer](#footer)
 - [Categories](#categories)
 - [Shareable links](#shareable-links)
 - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -214,13 +213,6 @@ Every page works down to phone width: a compact menu, swipeable category chips, 
 full-screen Contribute form.
 
 ![The site on a phone](docs/screenshots/mobile.jpg)
-
-## Footer
-
-The footer gives quick links to every page, the most popular categories, the upstream awesome-forensics list and
-Contribute a tool.
-
-![Footer](docs/screenshots/footer.jpg)
 
 ## Categories
 
