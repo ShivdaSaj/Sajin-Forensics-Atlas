@@ -265,7 +265,7 @@ Every view has its own address, so you can bookmark or share exactly what you se
 **How do I suggest a missing tool or report a broken link?** Use **Contribute a tool** on the site. For a
 broken or outdated entry, submit it with a note explaining what changed.
 
-**How often is the list updated?** The site follows the awesome-forensics list and approved community
+**How often is the list updated?** The site follows various curated list and approved community
 submissions; new entries appear as soon as they are published.
 
 **Where are my saved tools stored?** Only in your browser. Clearing site data or switching browsers starts a new
