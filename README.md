@@ -174,7 +174,7 @@ The shortlist is stored only in your browser; nothing is sent to a server and no
 ## Contribute a tool
 
 Know a tool, library or resource that belongs in the atlas? Open **Contribute a tool** from the menu, from the
-footer, from the **Suggest a tool** button on any category (the category is then pre-selected), or with a direct
+**Suggest a tool** button on any category (the category is then pre-selected), or with a direct
 link such as `#/contribute?cat=memory-forensics`.
 
 The form matches the atlas itself:
